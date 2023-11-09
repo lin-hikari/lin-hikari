@@ -7,7 +7,7 @@ A Game Developer (Designer and Programmer) and Web Developer
 - Check out some of my web dev projects and game demos here on GitHub too!
 
 ## Stuff I know:
-- C# - C++ - Java - Python -JavaScript - TypeScript
+- C# - C++ - Java - Python - JavaScript - TypeScript
 - Unity Engine - Multimedia Editing - Music Composing
 - NodeJS - Deno - SQL/NoSQL - REST API - Code Testing
 
