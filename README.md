@@ -1,5 +1,5 @@
 # Hello! I'm Lin
-A Game Developer (Designer and Programmer) and Web Developer
+A Game Developer (Programmer and Designer) and Web Developer
 
 ## Stuff I made:
 - My game released on Steam: https://store.steampowered.com/app/2013720/Retrowave_Rider/
