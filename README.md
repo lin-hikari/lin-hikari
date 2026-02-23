@@ -3,6 +3,7 @@ A Game Developer (Programmer and Designer) and Web Developer
 
 ## Stuff I made:
 - My game released on Steam: https://store.steampowered.com/app/2013720/Retrowave_Rider/
+- Another game I worked on, made by very cool people: https://store.steampowered.com/app/3400890/Defe_The_Defender/
 - My Itch.io with a few projects: https://linkseven.itch.io/
 - Check out some of my web dev projects and game demos here on GitHub too!
 
